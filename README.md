@@ -1,5 +1,5 @@
 # school-lists
-A project made in Angular. It render component lists of students and teachers within a school module!
+A project made in Angular. It renders component lists of students and teachers within a school module!
 # SchoolLists
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.11.

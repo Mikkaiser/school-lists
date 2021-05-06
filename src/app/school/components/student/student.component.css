@@ -1,0 +1,11 @@
+.bg-grey{
+  background-color: rgb(238, 238, 238);
+}
+ul{
+  padding-left: 0;
+}
+ul li{
+  font-size: large;
+  list-style: none;
+  padding: 10px;
+}

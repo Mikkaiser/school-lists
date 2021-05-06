@@ -1,0 +1,10 @@
+<div class="container">
+  <h2 class="mt-4 mb-4 font-weight-bold text-secondary">Students</h2>
+  <ul *ngFor = 'let student of students'>
+    <li class="bg-light"> Identifier: <b>{{student.id}}</b> </li>
+    <li> Name: <b>{{student.name}}</b> </li>
+    <li class="bg-light"> Graduated in: <b>{{student.class}}</b> </li>
+    <li> Age: <b>{{student.age}}</b> </li>
+    <hr>
+  </ul>
+</div>
